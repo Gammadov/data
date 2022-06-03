@@ -3,25 +3,25 @@
     "type": "video",
     "person ": "Бахтик",
     "calls ": "1",
-    "additional ": "FaceTime",
+    "additional ": "FaceTime video",
     "date ": "12:19",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
     "person ": "Мама",
     "calls ": "1",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsApp audio",
     "date ": "09:20",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
     "person ": "Мама",
     "calls ": "2",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsApp audio",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -29,7 +29,7 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -37,7 +37,7 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -45,23 +45,23 @@
     "calls ": "2",
     "additional ": "телефон",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
     "person ": "Сабина",
     "calls ": "1",
-    "additional ": "FaceTime",
+    "additional ": "FaceTime audio",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "video",
     "person ": "Папа",
     "calls ": "1",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsApp video",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
@@ -69,23 +69,23 @@
     "calls ": "1",
     "additional ": "Россия",
     "date ": "Yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
     "person ": "Патя",
     "calls ": "1",
-    "additional ": "Telegram",
+    "additional ": "Telegram audio",
     "date ": "Day before yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
     "person ": "Папа",
     "calls ": "1",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsApp audio",
     "date ": "Day before yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -93,15 +93,15 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "Day before yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
     "person ": "Сабина",
     "calls ": "2",
-    "additional ": "FaceTime",
+    "additional ": "FaceTime audio",
     "date ": "Day before yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -109,55 +109,55 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "Day before yesterday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
     "person ": "Сабина",
     "calls ": "2",
-    "additional ": "FaceTime",
+    "additional ": "FaceTime audio",
     "date ": "sunday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
     "person ": "Кама",
     "calls ": "2",
-    "additional ": "Telegram",
+    "additional ": "Telegram audio",
     "date ": "sunday",
-    "not_missed ": "false"
+    "missed ": "false"
   },
   {
-    "type": "video",
+    "type": "audio",
     "person ": "Папа",
     "calls ": "1",
     "additional ": "телефон",
     "date ": "saturday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
     "person ": "Лейла",
     "calls ": "2",
-    "additional ": "Telegram",
+    "additional ": "Telegram audio",
     "date ": "saturday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
     "person ": "Мама",
     "calls ": "1",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsAppe audio",
     "date ": "saturday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
-    "type": "video",
+    "type": "audio",
     "person ": "Сабина",
     "calls ": "1",
     "additional ": "телефон",
     "date ": "saturday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -165,15 +165,15 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "friday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "video",
     "person ": "Папа",
     "calls ": "2",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsApp video",
     "date ": "friday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -181,15 +181,15 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "friday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
     "person ": "Сабина",
     "calls ": "3",
-    "additional ": "FaceTime",
+    "additional ": "FaceTime audio",
     "date ": "thursday",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
@@ -197,15 +197,15 @@
     "calls ": "2",
     "additional ": "телефон",
     "date ": "thursday",
-    "not_missed ": "false"
+    "missed ": "false"
   },
   {
     "type": "video",
     "person ": "Сабина",
     "calls ": "1",
-    "additional ": "FaceTime",
+    "additional ": "FaceTime video",
     "date ": "14.06.2021",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
@@ -213,7 +213,7 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "14.06.2021",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "incoming",
@@ -221,15 +221,15 @@
     "calls ": "1",
     "additional ": "Россия",
     "date ": "14.06.2021",
-    "not_missed ": "false"
+    "missed ": "false"
   },
   {
     "type": "incoming",
     "person ": "Мама",
     "calls ": "1",
-    "additional ": "WhatsApp",
+    "additional ": "WhatsAppe audio",
     "date ": "14.06.2021",
-    "not_missed ": "true"
+    "missed ": "true"
   },
   {
     "type": "audio",
@@ -237,6 +237,6 @@
     "calls ": "1",
     "additional ": "телефон",
     "date ": "14.06.2021",
-    "not_missed ": "true"
+    "missed ": "true"
   }
 ]
