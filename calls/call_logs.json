@@ -29,7 +29,7 @@
     "calls": 1,
     "additional": "телефон",
     "date": "Yesterday",
-    "unmissed": true
+    "unmissed": false
   },
   {
     "type": "audio",
@@ -69,7 +69,7 @@
     "calls": 1,
     "additional": "Россия",
     "date": "Yesterday",
-    "unmissed": true
+    "unmissed": false
   },
   {
     "type": "incoming",
