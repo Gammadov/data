@@ -2,7 +2,7 @@
   {
     "type": "video",
     "person": "Бахтик",
-    "calls": 1,
+    "count": 1,
     "additional": "FaceTime video",
     "date": "12:19",
     "unmissed": true
@@ -10,7 +10,7 @@
   {
     "type": "audio",
     "person": "Мама",
-    "calls": 1,
+    "count": 1,
     "additional": "WhatsApp audio",
     "date": "09:20",
     "unmissed": true
@@ -18,7 +18,7 @@
   {
     "type": "audio",
     "person": "Мама",
-    "calls": 2,
+    "count": 2,
     "additional": "WhatsApp audio",
     "date": "Yesterday",
     "unmissed": true
@@ -26,7 +26,7 @@
   {
     "type": "audio",
     "person": "Патя",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "Yesterday",
     "unmissed": false
@@ -34,7 +34,7 @@
   {
     "type": "audio",
     "person": "Амир Хабибулаевич",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "Yesterday",
     "unmissed": true
@@ -42,7 +42,7 @@
   {
     "type": "audio",
     "person": "Патимат Меджидовна",
-    "calls": 2,
+    "count": 2,
     "additional": "телефон",
     "date": "Yesterday",
     "unmissed": true
@@ -50,7 +50,7 @@
   {
     "type": "incoming",
     "person": "Сабина",
-    "calls": 1,
+    "count": 1,
     "additional": "FaceTime audio",
     "date": "Yesterday",
     "unmissed": true
@@ -58,7 +58,7 @@
   {
     "type": "video",
     "person": "Папа",
-    "calls": 1,
+    "count": 1,
     "additional": "WhatsApp video",
     "date": "Yesterday",
     "unmissed": true
@@ -66,7 +66,7 @@
   {
     "type": "incoming",
     "person": "+7(904) 893-24-92",
-    "calls": 1,
+    "count": 1,
     "additional": "Россия",
     "date": "Yesterday",
     "unmissed": false
@@ -74,7 +74,7 @@
   {
     "type": "incoming",
     "person": "Патя",
-    "calls": 1,
+    "count": 1,
     "additional": "Telegram audio",
     "date": "Day before yesterday",
     "unmissed": true
@@ -82,7 +82,7 @@
   {
     "type": "audio",
     "person": "Папа",
-    "calls": 1,
+    "count": 1,
     "additional": "WhatsApp audio",
     "date": "Day before yesterday",
     "unmissed": true
@@ -90,7 +90,7 @@
   {
     "type": "audio",
     "person": "Бахтик",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "Day before yesterday",
     "unmissed": true
@@ -98,7 +98,7 @@
   {
     "type": "audio",
     "person": "Сабина",
-    "calls": 2,
+    "count": 2,
     "additional": "FaceTime audio",
     "date": "Day before yesterday",
     "unmissed": true
@@ -106,7 +106,7 @@
   {
     "type": "audio",
     "person": "Мама",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "Day before yesterday",
     "unmissed": true
@@ -114,7 +114,7 @@
   {
     "type": "incoming",
     "person": "Сабина",
-    "calls": 2,
+    "count": 2,
     "additional": "FaceTime audio",
     "date": "sunday",
     "unmissed": true
@@ -122,7 +122,7 @@
   {
     "type": "incoming",
     "person": "Кама",
-    "calls": 2,
+    "count": 2,
     "additional": "Telegram audio",
     "date": "sunday",
     "unmissed": false
@@ -130,7 +130,7 @@
   {
     "type": "audio",
     "person": "Папа",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "saturday",
     "unmissed": true
@@ -138,7 +138,7 @@
   {
     "type": "audio",
     "person": "Лейла",
-    "calls": 2,
+    "count": 2,
     "additional": "Telegram audio",
     "date": "saturday",
     "unmissed": true
@@ -146,7 +146,7 @@
   {
     "type": "incoming",
     "person": "Мама",
-    "calls": 1,
+    "count": 1,
     "additional": "WhatsAppe audio",
     "date": "saturday",
     "unmissed": true
@@ -154,7 +154,7 @@
   {
     "type": "audio",
     "person": "Сабина",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "saturday",
     "unmissed": true
@@ -162,7 +162,7 @@
   {
     "type": "audio",
     "person": "Юсуф Абубакарович",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "friday",
     "unmissed": true
@@ -170,7 +170,7 @@
   {
     "type": "video",
     "person": "Папа",
-    "calls": 2,
+    "count": 2,
     "additional": "WhatsApp video",
     "date": "friday",
     "unmissed": true
@@ -178,7 +178,7 @@
   {
     "type": "audio",
     "person": "Мама",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "friday",
     "unmissed": true
@@ -186,7 +186,7 @@
   {
     "type": "incoming",
     "person": "Сабина",
-    "calls": 3,
+    "count": 3,
     "additional": "FaceTime audio",
     "date": "thursday",
     "unmissed": true
@@ -194,7 +194,7 @@
   {
     "type": "incoming",
     "person": "Мама",
-    "calls": 2,
+    "count": 2,
     "additional": "телефон",
     "date": "thursday",
     "unmissed": false
@@ -202,7 +202,7 @@
   {
     "type": "video",
     "person": "Сабина",
-    "calls": 1,
+    "count": 1,
     "additional": "FaceTime video",
     "date": "14.06.2021",
     "unmissed": true
@@ -210,7 +210,7 @@
   {
     "type": "incoming",
     "person": "Ася",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "14.06.2021",
     "unmissed": true
@@ -218,7 +218,7 @@
   {
     "type": "incoming",
     "person": "+7(909) 414 82 09",
-    "calls": 1,
+    "count": 1,
     "additional": "Россия",
     "date": "14.06.2021",
     "unmissed": false
@@ -226,7 +226,7 @@
   {
     "type": "incoming",
     "person": "Мама",
-    "calls": 1,
+    "count": 1,
     "additional": "WhatsAppe audio",
     "date": "14.06.2021",
     "unmissed": true
@@ -234,7 +234,7 @@
   {
     "type": "audio",
     "person": "Лейла",
-    "calls": 1,
+    "count": 1,
     "additional": "телефон",
     "date": "14.06.2021",
     "unmissed": true
